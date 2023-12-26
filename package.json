@@ -39,14 +39,7 @@
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
-  "peerDependenciesMeta": {
-    "@annotorious/openseadragon": {
-      "optional": true
-    },
-    "openseadragon": {
-      "optional": true
-    }
-  },
+ 
   "dependencies": {
     "@neodrag/react": "^2.0.3"
   },
