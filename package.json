@@ -34,7 +34,7 @@
     "vite-tsconfig-paths": "^4.2.2"
   },
   "peerDependencies": {
-    "@annotorious/annotorious": "git+https://github.com/ShashanKV98/annotorious-subdir.git",
+    "@annotorious/annotorious": "git+https://github.com/ShashanKV98/annotorious-subdir.git#dev",
     "@annotorious/openseadragon": "^3.0.0-rc.16",
     "openseadragon": "^4.1.0",
     "react": "^18.2.0",
