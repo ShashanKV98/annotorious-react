@@ -66,8 +66,6 @@ export type {
   PolygonGeometry,
   Rectangle,
   RectangleGeometry,
-  Ellipse,
-  EllipseGeometry,
   Shape
 } from '@annotorious/annotorious';
 
