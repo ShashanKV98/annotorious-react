@@ -32,21 +32,15 @@
     "vite-plugin-dts": "^3.6.4",
     "svelte": "^4.2.8",
     "svelte-preprocess":"^5.1.3",
-    "vite-tsconfig-paths": "^4.2.2"
+    "vite-tsconfig-paths": "^4.2.2",
+    "@annotorious/openseadragon":"*"
+    
   },
   "peerDependencies": {
     "@annotorious/annotorious": "github:ShashanKV98/annotorious-subdir#dev",
     "openseadragon": "^4.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
-  },
-  "peerDependenciesMeta": {
-    "@annotorious/openseadragon": {
-      "optional": true
-    },
-    "openseadragon": {
-      "optional": true
-    }
   },
   "dependencies": {
     "@neodrag/react": "^2.0.3"
