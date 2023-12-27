@@ -8,7 +8,6 @@
   "type": "module",
   "scripts": {
     "start": "vite",
-    "prepare": "npm run build",
     "build": "tsc && vite build && vite build --config vite.config.osd.js",
     "test": "echo 'Skipping tests in @annotorious/react package'"
   },
